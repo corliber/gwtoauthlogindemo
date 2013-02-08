@@ -47,8 +47,8 @@ import com.google.gwt.user.client.ui.TextArea;
  */
 public class GWTOAuthLoginDemo implements EntryPoint
 {
-    private final String VERSION = "1.71";
-    private final String VERSION_STRING = "GWTOAuthLoginDemo v" + VERSION;
+    private final String VERSION = "1.72";
+    private final String VERSION_STRING = "GWTOAuthLoginDemo dev v" + VERSION;
     private final String VERSION_STRING_PLAIN = "GWTOAuthLoginDemo v" +  VERSION;
     private final String WELCOME_STRING = "Welcome to " + VERSION_STRING;
     
