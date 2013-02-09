@@ -11,22 +11,6 @@
     <property name="gwt.sdk" value="${env.GWT_DIR}" />
     <property name="webapps.dir" value="${env.WEBAPPS_DIR}" />
 
-
-    <property file="${basedir}/war/WEB-INF/jdbc.properties"/>
-    <property name="mysql.connector"
-        value="${basedir}/war/WEB-INF/lib/mysql-connector-java-5.1.19-bin.jar"/>
-
-    <path id="antclasspath">
-        <fileset dir="${basedir}/war/WEB-INF/lib">
-            <include name="*.jar"/>
-        </fileset>
-    </path>
-
-    <property name="sql.driver" value="${jdbc.driverClassName}"/>
-    <property name="sql.url" value="${jdbc.url}"/>
-    <property name="sql.user" value="${jdbc.username}"/>
-    <property name="sql.pass" value="${jdbc.password}"/>
-
   <path id="project.class.path">
     <pathelement location="war/WEB-INF/classes"/>
     <pathelement location="${gwt.sdk}/gwt-user.jar"/>
