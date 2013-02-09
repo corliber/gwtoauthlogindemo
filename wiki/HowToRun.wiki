@@ -30,7 +30,7 @@ Here is a screenshot of an application registration window with Facebook:
 
 After successful authentication, Facebook will redirect the app to the URL specified in *Site URL*. 
 
-Register the URL with each of the OAuth providers in a similar way. Please Google to find the registration URL.
+Register the URL with other OAuth providers in a similar way. Please Google to find the registration URL.
 
 =Update source=
   * Modify `src/com/example/GWTOAuthLoginDemo/client/util/ClientUtils.java` and change APP_CALLBACK_URL to your URL. e.g.
@@ -45,7 +45,7 @@ Register the URL with each of the OAuth providers in a similar way. Please Googl
 
 You have to do the same for each of the OAuth providers after registering the app.
 =Run=
-The application can not be run in GWT dev mode because the code server part of the URL can not be registered and GWT will crap up when redirection happens in a different URL. Therefore the app must be compiled and run. The easy way is to use the ant task `compile-and-run`.
+The application can not be run in GWT dev mode because the code server part of the URL can not be registered and GWT will crap out when redirection happens in a different URL. Therefore the app must be compiled and run. The easy way is to use the ant task `compile-and-run`.
 
   * To load the Ant build.xml,  In Eclipse, Click  _Window->Show View->Ant_. Then Right click, Select `Add Buldfiles...`.  Select `build.xml` and click OK. Open the ant tasks and run `cmpile-and-run`.
 
