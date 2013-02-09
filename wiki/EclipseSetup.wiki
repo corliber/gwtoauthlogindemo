@@ -32,10 +32,10 @@ These instructions are for Mac. I think it's similar on other platforms. Please 
  
   * Click Finish.
  
-  * Right click on the  URL and select *Find/CheckOut As...*
+  * Right click on the  URL and select `Find/CheckOut As...`
  
-  * Click on radio button  *Check out as a project with the name specified:*  and enter `GWTOAuthLoginDemo` in the text filed below. Click Finish.
+  * Click on radio button  `Check out as a project with the name specified:`  and enter `GWTOAuthLoginDemo` in the text filed below. Click Finish.
  
-  * Switch back to Java perspective *Window->Open Perspective->Java*.
+  * Switch back to Java perspective _Window->Open Perspective->Java_.
 
-You should see *GWTOAuthLoginDemo* in Package Explorer. If you see anything red, open Problems view form *Window->Show View->Problems* and see if you can figure out the issue.
+You should see `GWTOAuthLoginDemo` in Package Explorer. If you see anything red, open Problems view form _Window->Show View->Problems_ and see if you can figure out the issue.
