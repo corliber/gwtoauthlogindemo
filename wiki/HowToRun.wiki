@@ -1,2 +1,4 @@
 #summary How to run the App in your own machine
-Before being able to run the app successfully, you must register the app URL with OAuth Providers (Facebook, Google, Twitter etc.).  It is necessary because OAuth protocol works by Web redirection and the provider will redirect to the registered URL after successful authentication. 
+Before being able to run the app successfully, you must register the app URL with OAuth Providers (Facebook, Google, Twitter etc.).  It is necessary because OAuth protocol works by Web redirection and the provider will redirect to the registered URL after successful authentication.
+
+Here is a screenshot of app registration window with Facebook:
