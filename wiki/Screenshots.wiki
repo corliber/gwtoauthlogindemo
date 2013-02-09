@@ -6,3 +6,6 @@
 ----
 ==Login Screen==
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/app-login-screen.png]
+----
+==After Login using Facebook==
+[http://gwtoauthlogindemo.googlecode.com/svn/wiki/app-after-login.png]
