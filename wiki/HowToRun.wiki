@@ -47,6 +47,6 @@ The application can not be run in GWT dev mode because the code server part of t
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/ant-tasks.png]
 
   * Start Firefox or chrome and enter the following URL in the URL bar:
-{{
+{{{
 http://oauthtest.com:8888/GWTOAuthLoginDemo.html   
 }}
