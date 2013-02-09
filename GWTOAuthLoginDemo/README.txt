@@ -1,4 +1,5 @@
-Note: The information in the file could be stale, please use the web page for the latest information.
+WARNING:The information in this file could be stale, please use the web page for the latest information.
+Web page: https://code.google.com/p/gwtoauthlogindemo/
 
 Register the App URL with OAuth Providers (Facebook, Google, Twitter etc.) first. Most accept accept
 127.0.0.1 in the URL, some dont. Therefore it's a good idea to a domain in your URL and add the domain
