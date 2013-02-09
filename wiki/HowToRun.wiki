@@ -5,7 +5,10 @@ Before running the app in your own machine, you must do the following:
   * Determine the URL of your application.
   * Use the domain and URL to tegister the application with providers (facebook, google, twitter etc.)
   * update hosts file to point the domain name to 127.0.0.1
-
+     * In Linux/Unix/Mac, edit /etc/hosts file, add the following:
+{{{
+127.0.0.1 oauthtest.com
+}}}
 
 =Register Application=
 Here is a screenshot of an application registration window with Facebook:
