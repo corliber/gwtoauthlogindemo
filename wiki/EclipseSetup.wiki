@@ -21,4 +21,3 @@ These instructions are for Mac. I think it's similar on other platforms. Please 
   * Switch back to Java perspective *Window->Open Perspective->Java*.
 
 You should see *GWTOAuthLoginDemo* in Package Explorer. If you see anything red, open Problems view form *Window->Show View->Problems* and see if you can figure out the issue.
-=run=
