@@ -7,7 +7,7 @@ Before running the app in your own machine, you must do the following:
   * update hosts file to point the domain name to 127.0.0.1
 
 
-=Register Applictaion=
+=Register Application=
 Here is a screenshot of an application registration window with Facebook:
 
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/facebook-app-register.png]
