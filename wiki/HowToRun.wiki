@@ -36,8 +36,8 @@ Register the URL with each of the OAuth providers in a similar way. Please Googl
 }}}
   * Modify `src/com/example/GWTOAuthLoginDemo/server/util/ServerUtils.java` and change app id and app secret for the providers for your app. e.g.
 {{{
-    public static final String FACEBOOK_APP_ID      = "513942121801900";
-    public static final String FACEBOOK_APP_SECRET  = "fa9ac82352150b74b0abc08f2689eedc";
+    public static final String FACEBOOK_APP_ID      = "534691036564570";
+    public static final String FACEBOOK_APP_SECRET  = "60c0fecf6aa2042b00104fb65ff0f13d";
 }}}
 
 You have to do the same for each of the OAuth providers.
