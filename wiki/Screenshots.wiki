@@ -2,3 +2,4 @@
 #sidebar Toc
 
 ===Main App screen===
+[http://gwtoauthlogindemo.googlecode.com/svn/wiki/app-default.png]
