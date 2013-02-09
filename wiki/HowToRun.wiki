@@ -6,7 +6,7 @@
 Before running the app in your own machine, you must do the following:
   * Come up with a fictitious domain name e.g. _oauthtest.com_.
   * Determine the URL of your application.
-  * Use the domain and URL to tegister the application with providers (facebook, google, twitter etc.)
+  * Use the domain and URL to register the application with providers (facebook, google, twitter etc.)
   * update hosts file to point the domain name to 127.0.0.1
      * In Linux/Unix/Mac, edit /etc/hosts file, add the following:
 {{{
