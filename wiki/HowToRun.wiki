@@ -26,5 +26,11 @@ Here is a screenshot of an application registration window with Facebook:
 
 After successful authentication Facebook will redirect the app the URL specified in *Site URL:* field. Register the URL with each of the OAuth providers in a similar way. Google to find the registration URL.
 
+=Update source=
+  * Modify `src/com/example/GWTOAuthLoginDemo/client/util/ClientUtils.java` and change APP_CALLBACK_URL like:
+{{{
+    private static final String APP_CALLBACK_URL                = "https://gwtoauthlogindemo.appspot.com/GWTOAuthLoginDemo.html";
+}}}
+
 =Run=
 The application can not be run in GWT dev mode because the code server part of the URL can not be registered and GWT will crap up when redirection happens in a different URL. Therefore the app must be compiled and run. The easy way is to use the ant task `compile-and-run`.
