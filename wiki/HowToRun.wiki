@@ -1,5 +1,6 @@
 #summary How to run the App in your own machine.
 #labels Featured
+#sidebar Toc
 <wiki:toc />
 =Before running=
 Before running the app in your own machine, you must do the following:
