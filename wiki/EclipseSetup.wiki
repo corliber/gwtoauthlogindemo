@@ -1,7 +1,6 @@
 How to import the project to Eclipse
 
-= Introduction =
-
-
-
-= Details =
+  * Install Eclipse [http://www.eclipse.org/]. I use Indigo classic.
+  * Install GWT SDK and Eclipse plugin from [https://developers.google.com/web-toolkit/]
+  * Install subclipse
+...
