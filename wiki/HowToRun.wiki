@@ -9,6 +9,7 @@ Before running the app in your own machine, you must do the following:
 {{{
 127.0.0.1 oauthtest.com
 }}}
+     * In windows, update `c:\Windows\System32\drivers\etc\hosts` file (as Administrator).
 
 =Register Application=
 Here is a screenshot of an application registration window with Facebook:
