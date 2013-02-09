@@ -18,7 +18,7 @@ PING oauthtest.com (127.0.0.1): 56 data bytes
 ...
 
 }}}
-Note: some providers support 127.0.0.1 in the URL, some don't. So it's a good idea to use a domain.
+Note: some providers support 127.0.0.1 in the URL, some don't. So it's a good idea just to use a domain.  
 =Register Application=
 Here is a screenshot of an application registration window with Facebook:
 
