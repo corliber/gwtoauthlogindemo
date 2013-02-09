@@ -1,11 +1,11 @@
 #labels Featured
 #sidebar Toc
 <wiki:toc />
-==Main App screen==
+=Main App screen==
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/app-default.png]
 ----
-==Login Screen==
+=Login Screen=
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/app-login-screen.png]
 ----
-==After Login using Facebook==
+=After Login using Facebook=
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/app-after-login.png]
