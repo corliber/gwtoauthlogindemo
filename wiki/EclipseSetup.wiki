@@ -13,8 +13,7 @@ These instructions are for Mac. I think it's similar on other platforms. Please 
 =Import Project=
   * Click _Window->Open Perspective->Other.._
   * Select *SVN Repository Exploring*. Click OK
-  * Right click on *SVN Repositories* pane and select *New->Repository Location..*
-In the URL text field, enter `https://gwtoauthlogindemo.googlecode.com/svn/trunk/GWTOAuthLoginDemo`
+  * Right click on *SVN Repositories* pane and select *New->Repository Location..* In the URL text field, enter `https://gwtoauthlogindemo.googlecode.com/svn/trunk/GWTOAuthLoginDemo`
   * if you will be working as a developer, Enter your google email and password in *User:* and *Password:* fields respectively and click on *Save authentication..* checkbox if you want.
   * Click Finish.
   * Right click on the  URL and select *Find/CheckOut As...*
