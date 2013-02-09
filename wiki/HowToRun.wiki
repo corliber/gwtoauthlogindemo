@@ -4,3 +4,5 @@ Before being able to run the app successfully, you must register the app URL wit
 Here is a screenshot of app registration window with Facebook:
 
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/facebook-app-register.png]
+
+After successful authentication Facebook will redirect the app the URL specified in *Site URL:* field.
