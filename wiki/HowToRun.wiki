@@ -3,4 +3,4 @@ Before being able to run the app successfully, you must register the app URL wit
 
 Here is a screenshot of app registration window with Facebook:
 
-[http://gwtoauthlogindemo.googlecode.com/wiki/facebook-app-register.png]
+[http://gwtoauthlogindemo.googlecode.com/svn/wiki/facebook-app-register.png]
