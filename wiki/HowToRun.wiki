@@ -31,6 +31,10 @@ After successful authentication Facebook will redirect the app the URL specified
 {{{
     private static final String APP_CALLBACK_URL                = "https://oauthtest.com:8888/GWTOAuthLoginDemo.html";
 }}}
-
+  * Modify `src/com/example/GWTOAuthLoginDemo/server/util/ServerUtils.java` and change app id and app secret for the providers. e.g.
+{{
+    public static final String FACEBOOK_APP_ID          = "513942121801900";
+    public static final String FACEBOOK_APP_SECRET  = "fa9ac82352150b74b0abc08f2689eedc";
+}}
 =Run=
 The application can not be run in GWT dev mode because the code server part of the URL can not be registered and GWT will crap up when redirection happens in a different URL. Therefore the app must be compiled and run. The easy way is to use the ant task `compile-and-run`.
