@@ -35,7 +35,7 @@ Register the URL with each of the OAuth providers in a similar way. Please Googl
 =Update source=
   * Modify `src/com/example/GWTOAuthLoginDemo/client/util/ClientUtils.java` and change APP_CALLBACK_URL to your URL. e.g.
 {{{
-    private static final String APP_CALLBACK_URL                = "https://oauthtest.com:8888/GWTOAuthLoginDemo.html";
+    private static final String APP_CALLBACK_URL   = "https://oauthtest.com:8888/GWTOAuthLoginDemo.html";
 }}}
   * Modify `src/com/example/GWTOAuthLoginDemo/server/util/ServerUtils.java` and change app id and app secret for the providers for your app. e.g.
 {{{
