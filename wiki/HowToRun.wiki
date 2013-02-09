@@ -25,7 +25,9 @@ Here is a screenshot of an application registration window with Facebook:
 
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/facebook-app-register.png]
 
-After successful authentication Facebook will redirect the app the URL specified in *Site URL:* field. Register the URL with each of the OAuth providers in a similar way. Google to find the registration URL.
+After successful authentication Facebook will redirect the app the URL specified in *Site URL:* field. 
+
+Register the URL with each of the OAuth providers in a similar way. Please Google to find the registration URL.
 
 =Update source=
   * Modify `src/com/example/GWTOAuthLoginDemo/client/util/ClientUtils.java` and change APP_CALLBACK_URL to your URL. e.g.
