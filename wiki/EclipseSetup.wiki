@@ -1,5 +1,6 @@
 #summary How to setup Eclipse and Import the project
 #labels Featured
+=Toc=
 <wiki:toc />
 These instructions are for Mac. I think it's similar on other platforms. Please let me know if there is anything substantially different.
 
