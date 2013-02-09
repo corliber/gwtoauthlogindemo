@@ -15,7 +15,10 @@ These instructions are for Mac. I think it's similar on other platforms. Please 
   * Click _Window->Open Perspective->Other.._
   * Select `SVN Repository Exploring`. Click OK
   * Right click on `SVN Repositories` pane and select _New->Repository Location.._ In the URL text field, enter `https://gwtoauthlogindemo.googlecode.com/svn/trunk/GWTOAuthLoginDemo`
-  * if you will be working as a developer, Enter your google email and password in `User:` and `Password:` fields respectively and click on `Save authentication..` checkbox if you want. *Note*: this is not your google password, it is the password specific to code.google.com. You can find it by visiting [https://code.google.com/hosting/settings]. This authentication information is used during checking in code.
+ 
+  * if you will be working as a developer, Enter your google email and password in `User:` and `Password:` fields respectively and click on `Save authentication..` checkbox if you want. 
+
+*Note*: this is not your google password, it is the password specific to code.google.com. You can find it by visiting [https://code.google.com/hosting/settings]. This authentication information is used during checking in code.
   * Click Finish.
   * Right click on the  URL and select *Find/CheckOut As...*
   * Click on radio button  *Check out as a project with the name specified:*  and enter *GWTOAuthLoginDemo* in the text filed below. Click Finish.
