@@ -1,2 +1,2 @@
   * [EclipseSetup Setup Eclipse]
-  * HowToRun  How to run]
+  * [HowToRun  How to run]
