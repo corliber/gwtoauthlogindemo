@@ -11,15 +11,10 @@ These instructions are for Mac. I think it's similar on other platforms. Please 
 
   * Install Subversion plugin (I use the pure Java version):
     * Click _Help->Install New Software..->_
-
     * Select `Indigo - http://download.eclipse.org/releases/indigo` from Work With Selection box
-
     * Expand Collaboration Item
-
     * Select Subversion items. Follow the prompts. Restart Eclipse
-
     * Select SVN Kit 1.3.5
-
     * Click Finish. Follow the prompts. Restart Eclipse.
 =Import Project=
   * Click _Window->Open Perspective->Other.._
