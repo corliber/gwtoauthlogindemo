@@ -4,6 +4,7 @@
 <wiki:toc />
 =Before running=
 Before running the app in your own machine, you must do the following:
+  * [EclipseSetup Setup Eclipse]
   * Come up with a fictitious domain name e.g. _oauthtest.com_.
   * Determine the URL of your application.
   * Use the domain and URL to register the application with providers (facebook, google, twitter etc.)
