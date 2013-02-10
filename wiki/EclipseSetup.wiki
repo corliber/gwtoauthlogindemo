@@ -10,8 +10,7 @@ These instructions are for Mac. I think it's similar on other platforms. Please 
   * Install GWT SDK and Eclipse plugin from [https://developers.google.com/web-toolkit/download]. I use GWT 2.5.
 
   * Install Subversion plugin (I use the pure Java version):
-
-      * Click _Help->Install New Software..->_
+    * Click _Help->Install New Software..->_
 
     * Select `Indigo - http://download.eclipse.org/releases/indigo` from Work With Selection box
 
