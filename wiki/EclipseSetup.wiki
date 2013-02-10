@@ -5,7 +5,7 @@
 These instructions are for Mac. I think it's similar on other platforms. Please let me know if there is anything substantially different.
 
 =Setup Eclipse=
-  * Install Eclipse [http://www.eclipse.org/]. I use Indigo classic.
+  * Install Eclipse [http://www.eclipse.org/]. I use Eclipse 3.7 (Indigo) Classic.
 
   * Install GWT SDK and Eclipse plugin from [https://developers.google.com/web-toolkit/download]. I use GWT 2.5.
 
