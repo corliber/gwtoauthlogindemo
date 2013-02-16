@@ -46,7 +46,7 @@ Register the URL with other OAuth providers in a similar way. Please Google to f
 
 You have to do the same for each of the OAuth providers after registering the app.
 =Run=
-The application can not be run in GWT dev mode because the code server part of the URL can not be registered and GWT will crap out when redirection happens in a different URL. Therefore, the app *must be compiled* and run. The easy way is to use the ant task `compile-and-run`.
+The application can not be run in GWT dev mode, because the code server part of the URL can not be registered with the providers and GWT will crap out when redirection happens in a different URL. Therefore, the app *must be compiled* and run. The easy way is to use the ant task `compile-and-run`.
 
   * To load the Ant build.xml,  In Eclipse, Click  _Window->Show View->Ant_. Then Right click, Select `Add Buldfiles...`.  Select `build.xml` and click OK. Open the ant tasks and run `cmpile-and-run`.
 
