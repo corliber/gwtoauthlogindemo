@@ -48,6 +48,10 @@ You have to do the same for each of the OAuth providers after registering the ap
 =Run=
 The application can not be run in GWT dev mode, because the code server part of the URL can not be registered with the providers and GWT will crap out when redirection happens in a different URL. Therefore, the app *must be compiled* and run. The easy way is to use the ant task `compile-and-run`.
 
+  * Before running ant tasks, you must set the environment variable *GWT_DIR* to the directory where GWT SDK is installed. Example, in Linux/Unix/Mac:
+{{{
+GWT_DIR=/usr/local/gwt-2.5.0; export GWT_DIR
+}}}
   * To load the Ant build.xml,  In Eclipse, Click  _Window->Show View->Ant_. Then Right click, Select `Add Buldfiles...`.  Select `build.xml` and click OK. Open the ant tasks and run `cmpile-and-run`.
 
 [http://gwtoauthlogindemo.googlecode.com/svn/wiki/ant-tasks.png]
